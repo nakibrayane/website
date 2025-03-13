@@ -1,0 +1,37 @@
+{{ define "style" }}
+
+article.microblog-card {
+  max-width: 500px;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+}
+
+h1.title {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+{{ end }}
+
+{{ define "main" }}
+
+<h1 class="title">{{ T "microblog" }}</h1>
+
+{{ .Content }}
+
+{{ range .Data.Pages }}
+<article class="microblog-card">
+  <span>
+    <a href="{{ .Permalink }}" class="contrast time">
+      <time datetime="{{ .Date | time.Format ":date_long" }} {{ .Date | time.Format ":time_short" }}">
+        {{ .Date | time.Format ":date_long" }} {{ T "at" }} {{ .Date | time.Format ":time_short" }}
+      </time>
+    </a>
+  </span>
+
+  {{ .Content }}
+  
+</article>
+{{ end }}
+
+{{ end }}

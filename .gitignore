@@ -1,0 +1,8 @@
+.hugo_build.lock
+
+public/
+resources/
+
+content/.obsidian/
+content/.trash/
+content/templates/
