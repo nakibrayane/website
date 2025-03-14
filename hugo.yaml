@@ -40,13 +40,13 @@ languages:
           url: https://creativecommons.org/licenses/by/4.0
           weight: 1
         - name: سياسة الخصوصيّة
-          pageRef: /سياسة_الخصوصية
+          pageRef: /privacy-policy
           weight: 2
         - name: إِخلاء المسؤولية
-          pageRef: /إِخلاء_المسؤولية
+          pageRef: /disclaimer
           weight: 3
         - name: اشترك
-          pageRef: /اشترك
+          pageRef: /subscribe
           weight: 4
         - name: تبرّع
           url: https://buymeacoffee.com/nakibrayan
