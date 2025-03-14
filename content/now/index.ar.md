@@ -1,0 +1,26 @@
+---
+title: ما أفعله الآن
+lastmod: 2024-10-25
+url: الآن
+---
+## ما أقرأه
+
+* 📕 [The Rust Programming Language, 2nd Edition](https://nostarch.com/rust-programming-language-2nd-edition)
+
+## ما أستمع إليه
+
+* 🎙️ [Huberman Lab](https://hubermanlab.com)
+* 🎙️ [Surveillance Report](https://surveillancereport.tech)
+* 🎵 [Fireworks & Rollerblades](https://store.bensonboone.com/products/fireworks-rollerblades-cd)
+* 🎵 [Flou](https://open.spotify.com/intl-ar/album/67cpbnbv3A8dewZVqfHams)
+
+## ما أشاهده
+
+* 🎬 [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series))
+
+## ما أتعلمه
+
+* 👨‍💻 [Rust](https://www.rust-lang.org)
+## ما أعمل عليه
+
+* 🎓 مشغول بالدراسة
