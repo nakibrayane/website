@@ -7,7 +7,6 @@ languages:
   ar:
     disabled: false
     languageCode: ar
-    contentDir: content/ar
     languageDirection: rtl
     languageName: العربية
     title: موقع ريان نقيب
@@ -16,25 +15,25 @@ languages:
     menus:
       main:
         - name: المدوّنة المصغرة
-          pageRef: /المدوّنة_المصغرة
+          pageRef: /microblog
           weight: 1
         - name: المدوّنة
-          pageRef: /المدوّنة
+          pageRef: /blog
           weight: 2
         - name: الآن
-          pageRef: /الآن
+          pageRef: /now
           weight: 3
         - name: يستخدم
-          pageRef: /يستخدم
+          pageRef: /uses
           weight: 4
         - name: مكتبتي الشخصية
-          pageRef: /مكتبتي_الشخصية
+          pageRef: /personal-library
           weight: 5
         - name: مدوّنات أخرى
-          pageRef: /مدوّنات_أخرى
+          pageRef: /blogroll
           weight: 6
         - name: تواصل معي
-          pageRef: /تواصل_معي
+          pageRef: /contact-me
           weight: 7
       footer:
         - name: CC BY 4.0
@@ -63,7 +62,6 @@ languages:
   en:
     disabled: false
     languageCode: en
-    contentDir: content/en
     languageDirection: ltr
     languageName: English
     title: Rayan Nakib's Website
@@ -84,20 +82,20 @@ languages:
           pageRef: /uses
           weight: 4
         - name: Personal Library
-          pageRef: /personal_library
+          pageRef: /personal-library
           weight: 5
         - name: Blogroll
           pageRef: /blogroll
           weight: 6
         - name: Contact me
-          pageRef: /contact_me
+          pageRef: /contact-me
           weight: 7
       footer:
         - name: CC BY 4.0
           url: https://creativecommons.org/licenses/by/4.0
           weight: 1
         - name: Privacy Policy
-          pageRef: /privacy_policy
+          pageRef: /privacy-policy
           weight: 2
         - name: Disclaimer
           pageRef: /disclaimer
