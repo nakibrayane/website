@@ -3,6 +3,7 @@ baseURL: https://nakibrayan.com
 defaultContentLanguage: ar
 defaultContentLanguageInSubdir: false
 
+
 languages:
   ar:
     disabled: false
