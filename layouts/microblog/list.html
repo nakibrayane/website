@@ -19,7 +19,7 @@ h1.title {
 
 {{ .Content }}
 
-{{ range .Data.Pages.ByDate }}
+{{ range .Data.Pages.ByDate.Reverse }}
 <article class="microblog-card">
   <span>
     <a href="{{ .Permalink }}" class="contrast time">
