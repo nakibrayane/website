@@ -30,7 +30,7 @@ steps:
   build:
     image: hugomods/hugo:exts
     commands:
-      - hugo --minify
+      - hugo
     when:
       event: [pull_request, push]
 
