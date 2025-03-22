@@ -1,8 +1,8 @@
 ---
 draft: false
-title: 2024-10-02T06-34-00+0100
 date: 2024-10-02T06:34:00+01:00
 ---
+
 It always feel good to go to a train station early morning.
 
 ![](train-station.jpg)
