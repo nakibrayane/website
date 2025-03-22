@@ -1,0 +1,6 @@
+---
+draft: false
+date: 2024-09-13T21:39:00+01:00
+---
+
+I purchased a domain name for my site 🥳. The new domain is [nakibrayan.com](https://nakibrayan.com/en).
