@@ -25,7 +25,7 @@ description: قريبًا
 
 يُخزِّن نكس الحزم في دليل يُدعى بمَخْزَن نكس الذي يتوجد عادةً في `nix/store/` حيث تُخزَّن كل حزمة في دليل فرعي خاص بها، كما
 
-```
+```text
 /nix/store/b6gvzjyb2pg0kjfwrjmg1vfhh54ad73z-firefox-33.1/
 ```
 
