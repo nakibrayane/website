@@ -1,7 +1,6 @@
 {{ define "main" }}
 
 {{ with resources.Get "icons/picture.png" }}
-{{ with .Process "r270 resize 300x webp picture" }}
 <img
   src="{{ .RelPermalink }}"
   width="{{ .Width }}"
@@ -9,7 +8,6 @@
   alt="{{ site.Params.Name }}"
   class= "home-img"
   >
-{{ end }}
 {{ end }}
 
 <hgroup style="margin-bottom: 0 !important;">
