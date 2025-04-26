@@ -4,7 +4,7 @@ lastmod: 2024-10-25
 ---
 ## ما أقرأه
 
-* 📕 [The Rust Programming Language, 2nd Edition](https://nostarch.com/rust-programming-language-2nd-edition)
+* 📕 []()
 
 ## ما أستمع إليه
 
