@@ -59,7 +59,15 @@ languages:
       Occupation: طالب آلية
       Location: الجزائر
       Description: أنا نقيب ريان وهذا موقعو ومدونتي. يوجد الكثير هنا، اذا شكرا لزيارتك!
-      Bio: ''
+      Bio: |
+        مرحبًا! أنا ريان نقيب (Rayane Nakib)، طالب هندسة تحكم بجامعة بجاية وأبلغ من العمر 20 عامًا.
+        أتمتع بشغف عميق بالبرمجة وكل ما له علاقة بالبرمجيات الحرة والمفتوحة المصدر، بالإضافة إلى أنظمة التشغيل لينكس، وأهوى تشغيل وإدارة الخوادم المنزلية.
+        أحب أيضًا استكشاف مجالات وتقنيات جديدة باستمرار. إلى جانب ذلك، أستمتع بالقراءة، وأهتم بدراسة الفيزياء والقانون كهوايات فكرية.
+        كما أنني محب كبير للموسيقى والروايات والأنمي والمانغا، وأعشق مشاهدة الأفلام والمسلسلات.
+        هنا أشارك معكم شغفي، تجاربي، وكل شيء جديد أتعلمه وأستمتع به.<br><br>
+
+        أهلاً بكم في موقعي! ✨ أتمنى أن تجدوا هنا محتوى يلهمكم ويفيدكم، ولا تترددوا في استكشاف المدونة والتواصل معي إن أحببتم. 🚀
+
   en:
     disabled: false
     languageCode: en
@@ -111,10 +119,19 @@ languages:
       Logo: /avatar.svg
       Name: Rayan Nakib
       Pronouns: he/him
-      Occupation: Automatics Student
+      Occupation: Control Engineering student
       Location: Algeria
       Description: I am Rayan Nakib and this is my website and blog. There’s a lot here, so thanks for stopping by!
-      Bio: ''
+      Bio: |
+        Hello! I'm Rayane Nakib (ريان نقيب), a Control Engineering student at the University of Béjaïa, and I’m 20 years old.
+        I have a deep passion for programming and everything related to free and open-source software, as well as Linux operating systems.
+        I also enjoy running and managing home servers. I love exploring new fields and technologies constantly.
+        Besides that, I enjoy reading and have a keen interest in studying physics and law as intellectual hobbies.
+        I'm also a big fan of music, novels, anime, and manga, and I absolutely love watching movies and TV shows.
+        Here, I share my passions, experiences, and everything new I learn and enjoy.<br><br>
+
+        Welcome to my website! ✨ I hope you find inspiring and useful content here — feel free to explore the blog and reach out if you'd like! 🚀
+
 
 minify:
   disableCSS: false

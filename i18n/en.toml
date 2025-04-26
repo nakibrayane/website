@@ -8,6 +8,8 @@ blog = "Blog"
 published = "Published on"
 updated = "Updated on"
 donate = "Donate"
+tableOfContents = "Table of Contents"
+aboutMe = "About me"
 
 at = "at"
 re = "Re"

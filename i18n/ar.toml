@@ -8,6 +8,8 @@ blog = "المدوّنة"
 published = "نُشر في"
 updated = "حٌدّث في"
 donate = "تبرّع"
+tableOfContents = "جدول المحتويات"
+aboutMe = "عنّي"
 
 at = "على"
 re= "ردّ"

@@ -67,7 +67,9 @@
   </div>
 </div>
 
-<p class="home-bio">{{ site.Params.Bio }}</p>
+<h2>{{ T "aboutMe" }}</h2>
+
+<p class="home-bio">{{ site.Params.Bio | safeHTML }}</p>
 
 <h2>{{ T "tableOfContents" }}</h2>
 
