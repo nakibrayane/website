@@ -1,6 +1,6 @@
 ---
 title: A list of the books in my personal library
-lastmod: 2024-09-15
+lastmod: 2025-04-26
 ---
 ## English Books
 
@@ -8,6 +8,7 @@ lastmod: 2024-09-15
 - Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming By Eric Matthes
 - The Hobbit: or There and Back Again By J. R. R. Tolkien
 - The Rust Programming Language By Steve Klabnik and Carol Nichols, with contributions from the Rust Community
+- Harry Potter and the Sorcerer’s Stone By J.K. Rowling
 
 ## French Books
 
