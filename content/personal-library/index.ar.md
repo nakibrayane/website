@@ -15,7 +15,7 @@ lastmod: 2025-04-26
 - فلسفة إدموند هسرل: نظرية الرد الفينومينولوجي تأليف الدكتور عبد الرحمن بوقاف
 - شباب الأمير عبد القادر: أصله، طفولته، تربيته، تكوينه، زواجه، معاركه العسكرية الأولى، تولِّيه الإمارة تأليف قدور محمصاجي
 
-## الكتب الإنجلزية
+## الكتب الإنكلزية
 
 - Mechanical vibrations: Schaum's outline series By Wiliam W. Seto
 - Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming By Eric Matthes
