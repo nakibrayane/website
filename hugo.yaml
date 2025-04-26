@@ -50,7 +50,7 @@ languages:
           pageRef: /subscribe
           weight: 4
         - name: تبرّع
-          url: https://buymeacoffee.com/nakibrayan
+          pageRef: /donate
           weight: 5
     params:
       Logo: /avatar.svg
@@ -105,7 +105,7 @@ languages:
           pageRef: /subscribe
           weight: 4
         - name: Donate
-          url: https://buymeacoffee.com/nakibrayan
+          pageRef: /donate
           weight: 5
     params:
       Logo: /avatar.svg
