@@ -10,7 +10,7 @@ languages:
     languageCode: ar
     languageDirection: rtl
     languageName: العربية
-    title: موقع ريان نقيب
+    title: موقِع وِب ريَّان نقيب
     copyright: CC BY-NC-SA 4.0
     weight: 0
     menus:
@@ -54,13 +54,13 @@ languages:
           weight: 5
     params:
       Logo: /avatar.svg
-      Name: ريان نقيب
+      Name: ريَّان نقيب
       Pronouns: هو
       Occupation: طالب هندسة تحكم
       Location: الجزائر
       Description: أنا نقيب ريان وهذا موقعو ومدونتي. يوجد الكثير هنا، اذا شكرا لزيارتك!
-      Bio: |
-        مرحبًا! أنا ريان نقيب (Rayane Nakib)، طالب هندسة تحكم بجامعة بجاية وأبلغ من العمر 20 عامًا.
+      Bio: >
+        مرحبًا! أنا ريَّان نقيب (Rayane Nakib)، طالب هندسة تحكم بجامعة بجاية وأبلغ من العمر 20 عامًا.
         أتمتع بشغف عميق بالبرمجة وكل ما له علاقة بالبرمجيات الحرة والمفتوحة المصدر، بالإضافة إلى أنظمة التشغيل لينكس، وأهوى تشغيل وإدارة الخوادم المنزلية.
         أحب أيضًا استكشاف مجالات وتقنيات جديدة باستمرار. إلى جانب ذلك، أستمتع بالقراءة، وأهتم بدراسة الفيزياء والقانون كهوايات فكرية.
         كما أنني محب كبير للموسيقى والروايات والأنمي والمانغا، وأعشق مشاهدة الأفلام والمسلسلات.
@@ -122,8 +122,8 @@ languages:
       Occupation: Control Engineering student
       Location: Algeria
       Description: I am Rayan Nakib and this is my website and blog. There’s a lot here, so thanks for stopping by!
-      Bio: |
-        Hello! I'm Rayane Nakib (ريان نقيب), a Control Engineering student at the University of Béjaïa, and I’m 20 years old.
+      Bio: >
+        Hello! I'm Rayane Nakib (ريَّان نقيب), a Control Engineering student at the University of Béjaïa, and I’m 20 years old.
         I have a deep passion for programming and everything related to free and open-source software, as well as Linux operating systems.
         I also enjoy running and managing home servers. I love exploring new fields and technologies constantly.
         Besides that, I enjoy reading and have a keen interest in studying physics and law as intellectual hobbies.
