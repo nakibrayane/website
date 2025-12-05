@@ -1,12 +1,12 @@
 ---
 title: برامج وعتاد أستخدمه
-lastmod: 2025-04-26
+lastmod: 2025-12-05
 ---
 ## عتاد أستخدمه
 
-* HP Laptop 14s dq2024nf [حاسوب محمول]
-* ~~MacBook Pro (13-inch, Late 2011) [خادم منزلي]~~
-* Samsung Galaxy A15 [هاتف ذكي]
+* HP Laptop 14s dq2042nf [حاسوب محمول]
+* MacBook Pro (13-inch, Late 2011) [خادم منزلي]
+* Samsung Galaxy A06 [هاتف ذكي]
 
 ## برامج أستخدمها
 
@@ -17,7 +17,7 @@ lastmod: 2025-04-26
 * الصدفة: Bash
 * مدير النوافذ: niri
 * محرر النصوص: Neovim
-* متصفح الوِب: Tor Browser وBrave
+* متصفح الوِب: Tor Browser وMullvad Browser
 * مدير الملفات: Nautilus
 * مشغل الموسيقى: Recordbox
 * مشغل الفيديو: MPV
@@ -26,8 +26,8 @@ lastmod: 2025-04-26
 ### الهاتف الذكي
 
 * نظام التشغيل / التوزيعة: One UI
-* برامج النظام: برامج Fossify
+* برامج النظام: البرامج الإفتراضية من سامسونج
 * متاجر التطبيقات: Obtainium وAurora Store
 * متفح الوِب: Brave
 * المراسل اللخضي: Signal
-* عميل يوتيوب: Grayjay
+* عميل يوتيوب: Newpipe

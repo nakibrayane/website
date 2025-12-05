@@ -1,12 +1,12 @@
 ---
 title: Programs and Equipment I Use
-lastmod: 2025-04-26
+lastmod: 2025-12-05
 ---
 ## Hardware I Use
 
-* HP Laptop 14s dq2024nf [Laptop]
-* ~~MacBook Pro (13-inch, Late 2011) [Home Server]~~
-* Samsung Galaxy A15 [Phone]
+* HP Laptop 14s dq2042nf [Laptop]
+* MacBook Pro (13-inch, Late 2011) [Home Server]
+* Samsung Galaxy A06 [Phone]
 
 ## Software I Use
 
@@ -17,7 +17,7 @@ lastmod: 2025-04-26
 * Shell: Bash
 * Window Manger: niri
 * Text editor: Neovim
-* Web browser: Tor Brower and Brave
+* Web browser: Tor Brower and Mullvad Browser
 * File manager: Nautilus
 * Music player: Recordbox
 * Video player: MPV
@@ -26,8 +26,8 @@ lastmod: 2025-04-26
 ### Phone
 
 * Operating System / Distribution: One UI
-* System apps: Fossify apps
+* System apps: The default apps from Samsung
 * App stores: Obtainium, Aurora Store
 * Web browser: Brave
 * Instant messaging: Signal
-* YouTube client: Grayjay
+* YouTube client: Newpipe
