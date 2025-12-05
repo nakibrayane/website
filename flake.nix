@@ -20,7 +20,7 @@
 
       packages = rec {
         website = pkgs.stdenv.mkDerivation {
-          name = "nakibrayan.com";
+          name = "nakibrayane.pages.dev";
           src = ./.;
 
           buildInputs = [pkgs.hugo pkgs.dart-sass];
