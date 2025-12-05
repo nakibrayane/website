@@ -1,6 +1,6 @@
 ---
 title: قائمة الكتب في مكتبتي الشخصية
-lastmod: 2025-04-26
+lastmod: 2025-12-05
 ---
 ## الكتب العربية
 
@@ -14,6 +14,7 @@ lastmod: 2025-04-26
 - معيار البيتكوين: البديل اللامركزي للنظام الصرفي المركزي تأليف سيف الدّين عمّوص
 - فلسفة إدموند هسرل: نظرية الرد الفينومينولوجي تأليف الدكتور عبد الرحمن بوقاف
 - شباب الأمير عبد القادر: أصله، طفولته، تربيته، تكوينه، زواجه، معاركه العسكرية الأولى، تولِّيه الإمارة تأليف قدور محمصاجي
+- البيان الشيوعي: النص الكامل مع دراسة وتحليل تأليف هرمان دونكر ترجمة عصام أمين
 
 ## الكتب الإنكلزية
 
@@ -22,6 +23,8 @@ lastmod: 2025-04-26
 - The Hobbit: or There and Back Again By J. R. R. Tolkien
 - The Rust Programming Language By Steve Klabnik and Carol Nichols, with contributions from the Rust Community
 - Harry Potter and the Sorcerer’s Stone By J.K. Rowling
+- Lessons In Electric Circuits, Volume I – DC By Tony R. Kuphaldt
+- Auto Repair For Dummies By Deanna Sclar
 
 ## الكتب الفرنسية
 
