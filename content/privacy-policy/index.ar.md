@@ -1,6 +1,6 @@
 ---
 title: سياسة الخصوصية
-lastmod: 2025-03-13
+lastmod: 2025-12-05
 ---
 ## 1. تحليلات الوِب
 
@@ -12,4 +12,4 @@ lastmod: 2025-03-13
 
 ## 3. موفر استضافة الوِب
 
-موقع الوِب هذا مستضاف باستخدام خدمة [Codeberg Pages](https://codeberg.page)، تحقق من [سياسة الخصوصية الخاصة بهم](https://codeberg.org/Codeberg/org/src/branch/main/PrivacyPolicy.md).
+موقع الوِب هذا مستضاف باستخدام خدمة [Cloudflare Pages](https://pages.cloudflare.com/)، تحقق من [سياسة الخصوصية الخاصة بهم](https://www.cloudflare.com/privacypolicy/).
