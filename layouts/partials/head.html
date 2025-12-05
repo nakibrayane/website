@@ -14,7 +14,7 @@
 {{ $opts := dict
   "transpiler" "dartsass"
   "targetPath" "css/main.css"
-  "includePaths" (slice "pico-2.0.6/scss")
+  "includePaths" (slice "pico-2.1.1/scss")
   "enableSourceMap" (not hugo.IsProduction)
 }}
 {{ with resources.Get "scss/main.scss" | toCSS $opts | minify | fingerprint }}
