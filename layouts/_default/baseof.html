@@ -9,6 +9,7 @@
   </head>
 
   <body>
+    {{ partial "christmas" .}}
     <header class="container-fluid">{{ partial "header.html" . }}</header>
     <main class="container">{{ block "main" . }}{{ end }}</main>
     <footer class="container-fluid">{{ partial "footer.html" . }}</footer>
