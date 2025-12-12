@@ -3,7 +3,7 @@ title: About me
 lastmod: 2025-12-12
 ---
 
-Hello! I'm Rayane Nakib (ريَّان نقيب), a Control Engineering student at the University of Béjaïa, and I’m 20 years old.
+Hello! I'm Rayane Nakib (ريَّان نقيب), a Control Engineering student at the University of Béjaïa, and I’m 21 years old.
 I have a deep passion for programming and everything related to free and open-source software, as well as Linux operating systems.
 I also enjoy running and managing home servers. I love exploring new fields and technologies constantly.
 Besides that, I enjoy reading and have a keen interest in studying physics and law as intellectual hobbies.
